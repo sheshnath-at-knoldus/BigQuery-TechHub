@@ -67,9 +67,6 @@ Follow these steps to start using the Rust BigQuery Template:
 - Ensure proper error handling and logging are implemented for production use.
 - Adapt the code to handle different data types or additional BigQuery operations as needed.
 
-## License
-
-This template is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
